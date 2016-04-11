@@ -1,12 +1,12 @@
 import math
 import sys
 import os
-import utils
 
 
 sys.path.insert(0, os.path.abspath('..'))
 
 from .. import point
+from .. import utils
 
 def find_largest_city(gj):
     city = None
