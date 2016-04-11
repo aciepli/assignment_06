@@ -1,5 +1,7 @@
 import utils
 
+sys.path.insert(0, os.path.abspath('..'))
+
 
 def __init__(self, x, y, mark=[]):
     self.x = x
