@@ -1,7 +1,6 @@
 import math
 import sys
 import os
-import point
 import utils
 
 
