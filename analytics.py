@@ -7,6 +7,7 @@ import utils
 
 sys.path.insert(0, os.path.abspath('..'))
 
+from .. import point
 
 def find_largest_city(gj):
     city = None
